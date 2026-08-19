@@ -1,0 +1,15 @@
+# Datos locales
+*.xlsx
+*.xls
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
